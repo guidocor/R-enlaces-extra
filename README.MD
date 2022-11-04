@@ -17,6 +17,7 @@ Enlaces de temas diversos para la clase de Talleres de Análisis Político I, do
 [Hacer tu CV en R](https://www.statsandr.com/blog/how-to-create-a-timeline-of-your-cv-in-r/)
 
 [Librería de técnicas estadísticas](https://lost-stats.github.io/)
+
 ## Gráficos con ggplot2
 
 [Tutorial completo de ggplot2](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
